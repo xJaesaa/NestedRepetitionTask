@@ -1,0 +1,16 @@
+D:\FoldersnShit\TAFE_Work\Programming\NestedRepTask\bin\Debug\net5.0\nestedreptask.exe
+D:\FoldersnShit\TAFE_Work\Programming\NestedRepTask\bin\Debug\net5.0\nestedreptask.deps.json
+D:\FoldersnShit\TAFE_Work\Programming\NestedRepTask\bin\Debug\net5.0\nestedreptask.runtimeconfig.json
+D:\FoldersnShit\TAFE_Work\Programming\NestedRepTask\bin\Debug\net5.0\nestedreptask.runtimeconfig.dev.json
+D:\FoldersnShit\TAFE_Work\Programming\NestedRepTask\bin\Debug\net5.0\nestedreptask.dll
+D:\FoldersnShit\TAFE_Work\Programming\NestedRepTask\bin\Debug\net5.0\ref\nestedreptask.dll
+D:\FoldersnShit\TAFE_Work\Programming\NestedRepTask\bin\Debug\net5.0\nestedreptask.pdb
+D:\FoldersnShit\TAFE_Work\Programming\NestedRepTask\obj\Debug\net5.0\nestedreptask.csprojAssemblyReference.cache
+D:\FoldersnShit\TAFE_Work\Programming\NestedRepTask\obj\Debug\net5.0\nestedreptask.GeneratedMSBuildEditorConfig.editorconfig
+D:\FoldersnShit\TAFE_Work\Programming\NestedRepTask\obj\Debug\net5.0\nestedreptask.AssemblyInfoInputs.cache
+D:\FoldersnShit\TAFE_Work\Programming\NestedRepTask\obj\Debug\net5.0\nestedreptask.AssemblyInfo.cs
+D:\FoldersnShit\TAFE_Work\Programming\NestedRepTask\obj\Debug\net5.0\nestedreptask.csproj.CoreCompileInputs.cache
+D:\FoldersnShit\TAFE_Work\Programming\NestedRepTask\obj\Debug\net5.0\nestedreptask.dll
+D:\FoldersnShit\TAFE_Work\Programming\NestedRepTask\obj\Debug\net5.0\ref\nestedreptask.dll
+D:\FoldersnShit\TAFE_Work\Programming\NestedRepTask\obj\Debug\net5.0\nestedreptask.pdb
+D:\FoldersnShit\TAFE_Work\Programming\NestedRepTask\obj\Debug\net5.0\nestedreptask.genruntimeconfig.cache
